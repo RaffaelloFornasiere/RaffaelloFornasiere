@@ -3,16 +3,20 @@
 I'm a software engineer specializing in AI/LLM integration and building intelligent systems that solve real-world problems.
 
 ## 🔧 What I'm working on
-- Building AI agents and personal assistants using LLMs (Claude, LLama, GPT...)
+- Building a proactive personal assistant that can autonomously initiate conversations and manage tasks
 - Integrating LLMs into healthcare applications for medical information extraction (thesis project)
 
 ## 💻 Tech Stack
-- **Languages**: Python, TypeScript/JavaScript, Java
-- **Backend**: FastAPI, NestJS, Spring Boot
-- **Frontend**: React, Vue.js, Angular
+- Languages:
+  * Primary: TypeScript/JavaScript, Python, Java.
+  * Also experienced with: C++, SQL.
+  * Others: CSS, HTML.
+- Frameworks, Libraries and Tools:
+  * Back-end: FastAPI, Django, Spring Boot, JHipster.
+  * Front-end: React, Vue.js, Angular.
+  * Other known technologies: Docker, Git, Tailwind CSS, Bootstrap, Liquibase, Spring Data JPA, PostgreSQL, SQLite.
 
 ## 🌱 Currently learning
-- Advanced async programming and event-driven architectures
 - AI safety evaluation methods
 - Building more robust and reliable AI systems
 
